@@ -1,0 +1,15 @@
+* {
+    box-sizing: border-box;
+}
+
+#parant {
+    height: 200px;
+    border: 5px solid black;
+    display: flex;
+    gap: 20px;
+}
+
+.box {
+    background-color: green;
+    flex-grow: 1;
+}
